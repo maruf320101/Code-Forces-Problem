@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/71/A
 package Way_Too_Long_Words;
 import java.util.Scanner;
 
